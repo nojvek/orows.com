@@ -1,0 +1,24 @@
+{
+  "name": "orows.com",
+  "version": "1.0.0",
+  "private": true,
+  "author": "nojvek",
+  "homepage": "http://orows.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orows/orows.com.git"
+  },
+  "scripts": {
+    "build": "npm run pug && npm run styl",
+    "start": "npm run build && npm run server",
+    "pug": "node node_modules/pug-cli --pretty --out docs src",
+    "styl": "node node_modules/stylus/bin/stylus --inline --out docs src",
+    "server": "cd docs && node ../node_modules/http-server/bin/http-server -s -c0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "pug-cli": "^1.0.0-alpha6",
+    "stylus": "^0.54.5"
+  }
+}
