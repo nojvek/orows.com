@@ -1,3 +1,6 @@
+# Mission
+A computer is a tool to explore and manipulate abstractions of objects.
+
 ## CMS Examples
 https://university.webflow.com/courses/cms-and-dynamic-content-course
 
