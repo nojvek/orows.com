@@ -2,7 +2,6 @@
 https://university.webflow.com/courses/cms-and-dynamic-content-course
 
 ## Spreadsheet ux
-
 https://uxdesign.cc/design-better-data-tables-4ecc99d23356
 https://uxdesign.cc/designing-tables-for-reusability-490a3760533
 http://uxmovement.com/content/9-design-techniques-for-user-friendly-tables/
@@ -15,3 +14,5 @@ https://dribbble.com/search?q=spreadsheet
 https://monkeylearn.com/
 https://mixpanel.com/
 
+## SQL GUIs
+https://mobile.databasejournal.com/features/mysql/slideshows/top-10-mysql-gui-tools.html
