@@ -1,0 +1,12 @@
+Nested Table
+  Three column layout
+  Virtualization
+  filtering
+  group and ungroup
+  review and edits
+  structure vs data
+  permissions
+  Row, col freezing, visible columns
+  data bars and sparks
+  column stats
+
